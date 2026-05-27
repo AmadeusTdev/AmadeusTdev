@@ -1,6 +1,6 @@
 ## Hi there 🌠
 
-Hello! I'm Audren Metery-Drouin, a small game developer who likes to create projects and games for fun or to learn new things from time to time.
+Hello! I'm Audren Metery-Drouin, a small video game developer who likes to create projects and games for fun or to learn new things from time to time.
 
 ---
 
