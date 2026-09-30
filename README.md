@@ -7,7 +7,7 @@ Hello! I'm Audren Metery-Drouin, a hobbyist video game developer who likes to cr
 Current programming language I know:
 C++, Java, Python, MIPS Assembly, Lua, HTML, CSS
 
-I eventually want to learn more about Rust and Q# because Rust has a different way of working and Q# is useful when it comes to programming quantum circuits.
+I eventually want to learn more about Rust and Q# / Quiskit(Python) because Rust has a different way of working and Q# is useful when it comes to programming quantum circuits.
 
 <!--
 **AmadeusTdev/AmadeusTdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
