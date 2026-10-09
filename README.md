@@ -10,7 +10,7 @@ C++, Java, Python, MIPS Assembly, Lua, HTML, CSS
 I eventually want to learn more about Rust and Q# / Quiskit(Python) because Rust has a different way of working and Q# is useful when it comes to programming quantum circuits.
 
 More about me :
-<a href="amadeustdev.github.io/About-me/">amadeustdev.github.io/About-me/</a>
+<a href="https://amadeustdev.github.io/About-me/">amadeustdev.github.io/About-me/</a>
 
 <!--
 **AmadeusTdev/AmadeusTdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
